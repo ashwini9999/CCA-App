@@ -1,0 +1,5 @@
+server key:
+    AAAAfpnLr3E:APA91bF73i1LS5a4pTl2OVjlNVLjy2RvtUehjJudwr94oIIaCrNOB38uSpEBgP1f5JsuPhToIaWF8bQcZbsnonqg6n_y1kX3BY_E9pFOFcul72kiTWdssgLo2bG7rqP5VTCG7_fPS90P
+
+sender id:
+    543746142065

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1075361146668",
+    "firebase_url": "https://cca-login-daf9e.firebaseio.com",
+    "project_id": "cca-login-daf9e",
+    "storage_bucket": "cca-login-daf9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075361146668:android:babcda3c235398cdc56e89",
+        "android_client_info": {
+          "package_name": "com.CCA.ccaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075361146668-ckd8phg67a46mtk4nq7oakecerh3ieog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CCA.ccaapp",
+            "certificate_hash": "ff59b4aa8d0707b8f6717eed5671da5d4104defd"
+          }
+        },
+        {
+          "client_id": "1075361146668-vdd7fb833gsou98eq1hck065tp7gukq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_M_2NJAe1OJ5OGPPt9Cdhe0PuM4sza4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075361146668-vdd7fb833gsou98eq1hck065tp7gukq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
